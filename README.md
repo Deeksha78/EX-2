@@ -50,10 +50,13 @@ while True:
 OUTPUT :
 
 CLIENT:
- file:///home/sec/Pictures/Screenshots/Screenshot%20from%202023-05-30%2010-52-19.png
+![Screenshot from 2023-05-30 10-52-19](https://github.com/Deeksha78/EX-2/assets/128116204/a845128a-0f00-48a9-9066-b37752ef45e2)
+
  
 SERVER:
- file:///home/sec/Pictures/Screenshots/Screenshot%20from%202023-05-30%2010-52-32.png
+![Screenshot from 2023-05-30 10-52-32](https://github.com/Deeksha78/EX-2/assets/128116204/91c649e8-9f46-42aa-8ac1-aaec0312b13b)
+
+ 
 
 
 
